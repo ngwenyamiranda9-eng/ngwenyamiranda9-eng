@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi , i'm Miranda 👋
+CS student | Cybersecurity specialization |
+Based in Warsaw
+
+## Currently Learning
+-TryHackMe (Pre-security path)
+-Linux & networking fundamentals 
+
+## Projects
+-coming soon
+
+## Connect
+LinkedIn 
 
 <!--
 **ngwenyamiranda9-eng/ngwenyamiranda9-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
